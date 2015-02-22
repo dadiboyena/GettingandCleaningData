@@ -1,6 +1,6 @@
 ## Attempt to acheive Tidy Data from the Human Activity Recognition Using Smartphones Dataset 
 
- Getting and Cleaning Data Project(Coursera)
+ GETTING AND CLEANING DATA (Coursera; JHU)
 
 * A few steps were taken to transform the initial data set. The test and train sets were merged and the 
   subject identifiers and activity labels are pulled in to create a single data set. The activity identifiers 

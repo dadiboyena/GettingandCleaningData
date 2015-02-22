@@ -2,7 +2,6 @@
 
 url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 downloadDir <- "data"
-
 path <- function(...) { paste(..., sep = "/") }
 
 zipFile <- path(downloadDir, "dataset.zip")

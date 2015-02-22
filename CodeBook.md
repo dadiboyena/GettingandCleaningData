@@ -1,6 +1,6 @@
 ## Code Book
 
-### Subject and Performed Activity
+Subject and Performed Activity
 
 These variables identify the unique subject/activity pair the variables related to:
 
