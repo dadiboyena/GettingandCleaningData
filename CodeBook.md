@@ -13,9 +13,9 @@ These variables identify the unique subject/activity pair the variables related 
         Standing
         Laying
 
-Measurement Means
-
-All variables are the mean of a measurement for each subject and activity. This is indicated by the initial Mean in the variable name. All values are floating point numbers.
+Measurement Means:
+	All variables are the mean of a measurement for each subject and activity. This is indicated by the initial Mean in the variable name. 
+	All values are floating point numbers.
 
     Time domain body acceleration mean along X, Y, and Z:
         MeanTimeBodyAccMeanX
